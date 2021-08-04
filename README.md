@@ -5,7 +5,7 @@
 - 💬 Reaching for a new life 
 - 📫 How to reach me: @matgermano
 -->
-- ## Hey! Sou o Matheus Germano 
+
  <div>
   <a href="https://github.com/matgermano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matgermano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
