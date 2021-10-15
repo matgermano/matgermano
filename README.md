@@ -2,7 +2,7 @@
 
 
 <p align="center">🌱 I’m currently learning web development on Resília</p>
-<p align="center">💬 Let´s code together!</p> 
+<p align="center">💬 Let´s code together?!</p> 
 
 
  <div align="center">
