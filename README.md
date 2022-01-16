@@ -1,7 +1,5 @@
 <h2 align="center"> 🚀 Hey! I'm Matheus Germano</h2>
 
-
-<p align="center">🌱 I’m currently learning web development on Resília</p>
 <p align="center">💬 Let´s code together?!</p> 
 
 
