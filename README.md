@@ -1,8 +1,15 @@
-<h2 align="center"> 🚀 Hey! I'm Matheus Germano</h2>
+<h2 align="center">Hey! I'm Matheus Germano</h2>
 
-<p align="center">💬 Let´s code together?!</p> 
+<img align="right" height="250px" alt="GIF" src="https://media-exp1.licdn.com/dms/image/C4D22AQEfJfa0dKljVQ/feedshare-shrink_2048_1536/0/1634318126584?e=1648080000&v=beta&t=X5nzLeAflHCDLrRVje24TLucJHYkqwMi8VEu6kXsTKQ" />
 
-
+```Sou desenvolvedor FullStack```
+- 🚀 Atualmente trabalhando no meu portfolio 
+- 🌱 Formado no Bootcamp Resilia de Desenvolvimento Web 
+- 👀 Interesse em segurança da informação, engenharia de software e estrutura de dados 
+- 💬 Me chame para falar de tendências e tecnologia, vou amar
+- 🧗 Pesquisando sobre: Salesforce, Golang, Elixir, Java
+- ⚡ Aberto a propostas de emprego! :raised_hands:
+ ---
  <div align="center">
   <a href="https://github.com/matgermano">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matgermano&show_icons=true&hide_border&theme=dark&include_all_commits=true&count_private=true"/>
