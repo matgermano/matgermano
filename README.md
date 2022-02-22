@@ -5,7 +5,7 @@
 ```Sou desenvolvedor FullStack```
 - 🚀 Atualmente trabalhando no meu portfolio 
 - 🌱 Formado no Bootcamp Resilia de Desenvolvimento Web 
-- 👀 Interesse em segurança da informação, engenharia de software e estrutura de dados 
+- 👀 Interesse em engenharia de software, estrutura de dados e produto 
 - 💬 Me chame para falar de tendências e tecnologia, vou amar
 - 🧗 Pesquisando sobre: Salesforce, Golang, Elixir, Java
 - ⚡ Aberto a propostas de emprego! :raised_hands:
