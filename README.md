@@ -1,6 +1,6 @@
 <h2 align="center">Hey! I'm Matheus Germano</h2>
 
-<img align="right" height="250px" alt="GIF" src="https://media-exp1.licdn.com/dms/image/C4D22AQEfJfa0dKljVQ/feedshare-shrink_2048_1536/0/1634318126584?e=1648080000&v=beta&t=X5nzLeAflHCDLrRVje24TLucJHYkqwMi8VEu6kXsTKQ" />
+
 
 ```Sou desenvolvedor FullStack```
 - 🚀 Atualmente trabalhando no meu portfolio 
