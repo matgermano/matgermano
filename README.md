@@ -1,3 +1,6 @@
+<img align="right" width=200 height=200 alt="GIF" src="https://c.tenor.com/XG8WXd4R7RYAAAAi/pato-caminando.gif"  />
+
+
 
 - 🚀 Evoluindo diariamente meu portfolio 
 - 📚 Bacharel em Gestão Pública e Bootcamp Dev FullStack
@@ -5,6 +8,8 @@
 - 💬 Me chame para falar de tendências e tecnologia, vou amar
 - 🧗 Pesquisando sobre: Salesforce, Golang, Java
 - ⚡ Aberto a propostas de emprego! :raised_hands:
+
+
  ---
  <div align="center">
   <a href="https://github.com/matgermano">
