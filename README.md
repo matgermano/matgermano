@@ -1,6 +1,3 @@
-<h2 align="center">Hey! I'm Matheus Germano</h2>
-
-
 
 ```Sou desenvolvedor FullStack```
 - 🚀 Evoluindo diariamente meu portfolio 
