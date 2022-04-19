@@ -1,5 +1,4 @@
 
-```Sou desenvolvedor FullStack```
 - 🚀 Evoluindo diariamente meu portfolio 
 - 📚 Bacharel em Gestão Pública e Bootcamp Dev FullStack
 - 👀 Interesse em engenharia de softwares, arquitetura e produto 
