@@ -3,10 +3,10 @@
 
 
 - 🚀 Evoluindo diariamente meu portfolio 
-- 📚 Bacharel em Gestão Pública e Bootcamp Dev FullStack
+- 📚 Bacharel em Gestão Pública e Bootcamp Dev FullStack & Product Management 
 - 🪜 Atuo hoje como Associate Product Manager
 - 💬 Me chame para falar de tendências e tecnologia, vou amar
-- 🧗 Pesquisando sobre: Golang e Kubernetes
+- 🧗 Pesquisando sobre: API Management, BI and Product Strategy
 
 
  ---
