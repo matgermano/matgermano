@@ -2,12 +2,11 @@
 
 
 
-- 🚀 Evoluindo diariamente meu portfolio 
-- 📚 Bacharel em Gestão Pública e Bootcamp Dev FullStack & Product Management 
-- 🪜 Atuo hoje como Associate Product Manager
-- 💬 Me chame para falar de tendências e tecnologia, vou amar
-- 🧗 Pesquisando sobre: API Management, BI and Product Strategy
+Evolving my portfolio daily:
 
+- 🪜 Currently working as a Product Manager at TIM
+- 💬 Feel free to reach out to me to discuss trends and technology, I'll love it!
+- 🧗 Researching about: BI, and Product Strategy.
 
  ---
  <div align="center">
