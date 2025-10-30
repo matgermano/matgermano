@@ -30,7 +30,7 @@ Evolving my portfolio daily:
  
   <h3 align="center"/>📫 How to reach me:</h3> 
 <div align="center"> 
-   <a href="https://www.linkedin.com/in/matheusgermanodesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/pmgermano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:germano.souza@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    <a href = "https://api.whatsapp.com/send/?phone=5521996692505&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
