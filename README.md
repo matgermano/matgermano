@@ -4,9 +4,9 @@
 
 Evolving my portfolio daily:
 
-- 🪜 Currently working as a Product Manager at TIM
+- 🪜 Vibe coding
 - 💬 Feel free to reach out to me to discuss trends and technology, I'll love it!
-- 🧗 Researching about: BI, and Product Strategy.
+- 🧗 Researching about: AI and Product Strategy.
 
  ---
  <div align="center">
