@@ -1,4 +1,4 @@
-<img align="right" width=200 height=200 alt="GIF" src="https://c.tenor.com/XG8WXd4R7RYAAAAi/pato-caminando.gif" />
+<img align="right" width="170" alt="walking duck" src="https://c.tenor.com/XG8WXd4R7RYAAAAi/pato-caminando.gif" />
 
 ### Hey, I'm Matheus 👋
 
@@ -34,12 +34,7 @@ Developer in a past life, Product Manager today — I traded the IDE for strateg
 <br>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=matgermano&theme=dark&hide_border=true" alt="GitHub streak"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matgermano&theme=github_dark" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=matgermano&theme=github-compact&hide_border=true" alt="Contribution graph"/>
 </div>
 
 ---
@@ -49,10 +44,4 @@ Developer in a past life, Product Manager today — I traded the IDE for strateg
   <a href="https://www.linkedin.com/in/pmgermano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:germano.souza@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
   <a href="https://api.whatsapp.com/send/?phone=5521996692505&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matgermano&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </div>
